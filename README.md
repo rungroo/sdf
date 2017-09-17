@@ -1,0 +1,1 @@
+The Smart Device Framework is aimed at developers wanting to simplify and reduce the cost of their development experience using the .NET Compact Framework. By providing useful extensions the core .NET Compact Framework class libraries, the Smart Device Framework enables developers to concentrate on building core application functionality.
